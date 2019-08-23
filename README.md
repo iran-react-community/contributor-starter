@@ -6,3 +6,4 @@
 - [mrzrm](https://github.com/mr2rm)
 - [Javad Masoudian](https://github.com/2012mjm)
 - [Siavash Ramezani](https://github.com/siavash-ramezani)
+- [Jamal Sayedi](https://github.com/jamalsayedi)
