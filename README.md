@@ -9,4 +9,5 @@
 - [Jamal Sayedi](https://github.com/jamalsayedi)
 - [Mohammad Sharifi](https://github.com/MSharifi78)
 - [Nima Habibkhoda](https://github.com/nimahkh)
-- [Mamad Gholi](https://github.com/mamadGholi)
+- [Azim Atefi](https://github.com/AZIMAT)
+- [Sina Zeini](https://github.com/sinazeini)
