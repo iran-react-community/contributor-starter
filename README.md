@@ -10,6 +10,7 @@
 - [Mohammad Sharifi](https://github.com/MSharifi78)
 - [Nima Habibkhoda](https://github.com/nimahkh)
 - [Sina Zeini](https://github.com/sinazeini)
+- [Taghi Khavari](https://github.com/taghikhavari)
 - [Muhammad Shahabipour](https://github.com/muhshahabipour)
 - [Hossein Rahimi](https://github.com/hrahimi270)
 - [Azim Atefi](https://github.com/AZIMAT)
