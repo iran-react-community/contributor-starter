@@ -11,3 +11,4 @@
 - [Nima Habibkhoda](https://github.com/nimahkh)
 - [Azim Atefi](https://github.com/AZIMAT)
 - [Sina Zeini](https://github.com/sinazeini)
+- [Fatemeh Ataee](https://github.com/fatemeataee)
