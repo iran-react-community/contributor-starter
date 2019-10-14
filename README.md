@@ -18,4 +18,4 @@
 - [Muhammad Shahabipour](https://github.com/muhshahabipour)
 - [Hossein Rahimi](https://github.com/hrahimi270)
 - [Fatemeh Ataee](https://github.com/fatemeataee)
-- [MR-Mostafa](https://github.com/MR-Mostafa)
+- [Mostafa Rahmati](https://github.com/MR-Mostafa)
