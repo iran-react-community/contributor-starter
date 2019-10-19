@@ -9,6 +9,7 @@
 - [Jamal Sayedi](https://github.com/jamalsayedi)
 - [Mohammad Sharifi](https://github.com/MSharifi78)
 - [Nima Habibkhoda](https://github.com/nimahkh)
+- [Nima Arefi](https://github.com/nimaa77)
 - [Azim Atefi](https://github.com/AZIMAT)
 - [Sina Zeini](https://github.com/sinazeini)
 - [Mohammad amin hesam](https://github.com/mohammad-amin-hesam)
@@ -21,3 +22,5 @@
 - [Mostafa Rahmati](https://github.com/MR-Mostafa)
 - [Poriya Sobhanlo ](https://github.com/Psobhanlo)
 - [Mohammad Reza Shabani](https://github.com/cmohammadc)
+- [Ali Askari](https://github.com/askariacc)
+- [Amir H. Maleki ](https://github.com/maleking)
