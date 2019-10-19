@@ -20,4 +20,5 @@
 - [Fatemeh Ataee](https://github.com/fatemeataee)
 - [Mostafa Rahmati](https://github.com/MR-Mostafa)
 - [Poriya Sobhanlo ](https://github.com/Psobhanlo)
+- [Ali Askari](https://github.com/askariacc)
 - [Amir H. Maleki ](https://github.com/maleking)
